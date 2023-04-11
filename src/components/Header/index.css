@@ -5,6 +5,7 @@
   padding: 32px;
   padding-left: 95px;
   padding-right: 95px;
+  width: 100%;
 }
 
 @media (max-width: 575px) {
@@ -50,7 +51,7 @@
   margin-left: 16px;
 }
 
-@media (max-width: 767px) {
+.route-link @media (max-width: 767px) {
   .route-link {
     margin-left: 10px;
   }
